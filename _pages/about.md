@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+Hi! I'm Ricardo, a PhD student at the University of Zurich working interested in (astro)particle physics, dark matter, developing software with Python and data analysis. I'm part of the [astroparticle group of Prof. Laura Baudis](https://www.physik.uzh.ch/en/groups/baudis.html), the [XENON](https://xenonexperiment.org/) and [DARWIN](https://darwin.physik.uzh.ch/) collaborations.
+
+My main topics of research are Multi-Messenger astrophysics with XENONnT, simulating electric fields and explorign novel photsensor solutions for the next generation of dark matter detectors. Check out my [research](/research/) page for more details!
+
+
+This website uses the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
