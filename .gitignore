@@ -2,3 +2,4 @@ _site/
 vendor
 *.lock
 *.scssc
+*.ipynb_checkpoints
