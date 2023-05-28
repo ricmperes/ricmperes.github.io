@@ -1,0 +1,25 @@
+\cventry{September 2022}{SiPM array of Xenoscope, a full-scale DARWIN vertical demonstrator}{University of Warsaw Library}{Poland}{Plenary talk}{Plenary talk at LIDINE 2022 about the Xenoscope facility and project, with a focus on its top array (design, SiPM characterization, readout development, and signal simulation).}
+
+\cventry{September 2022}{Never miss a light show}{University of Zürich}{Switzerland}{Public talk}{General talk on the topic of Supernova detection with massive particles as part of the Universitas 21 Three Minute Thesis (3MT) Competition at the University of Zürich. This presentation won the Audience Award of the competition.}
+
+\cventry{June 2022}{Neutrino Physics in DARWIN}{Seoul}{Korea (online)}{Online poster}{Poster on the neutrino physics reach of the DARWIN observatory (neutrinoless double beta decay of 136Xe, solar neutrinos searches with electron scattering and coherent elastic neutrino-nucleus scattering.}
+
+\cventry{May 2022}{SiPM readout of Xenoscope}{University of Coimbra}{Portugal}{Plenary talk}{Plenary talk at XeSAT 2022 about the top array of Xenoscope, from design and SiPM characterization to signal simulation.}
+
+\cventry{November 2021}{Xenoscope A full scale vertical demonstrator for DARWIN}{University of Zürich}{Switzerland}{Poster}{Outreach poster for the Department of Physics of the University of Zurich Open Day 2021.}
+
+\cventry{September 2021}{The XENONnT detector and physics programme}{University of Innsbruck}{Austria}{Parallel talk}{Parallel talk in the 2021 annual swiss and austrian physical societies about the XENONnT detector and science program.}
+
+\cventry{February 2021}{Recent results from XENON1T and multi-messenger future of XENONnT}{University of Padova (online)}{Parallel talk}{}{Parallel talk in the XIX International Workshop on Neutrino Telescopes conference about the recent XENON1T results, focused on neutrino-related analysis, and the ongoing efforts to connect XENONnT to SNEWS.}
+
+\cventry{September 2020}{3D Electric Field Simulations for XENONnT}{Internal Seminar}{University of Zürich}{}{30 min seminar on my work running full 3d electrostatic field simulations of the XENONnT detector. The seminar covered an introduction to the XENON detectors and direct DM search, the Boundary Element Method applied to electrostatic field simulations, the implemented geometry of the XENONnT TPC and current results on drift and extraction fields.}
+
+\cventry{August 2019}{Integration of XENON into the SuperNova Early Warning System}{University of Zürich}{Poster}{Zürich, Switzerland}{Poster for the 2019 Joint Annual Meeting of the Swiss and Austrian Physical Societies poster session.}
+
+\cventry{June 2019}{Integration of XENON into the SuperNova Early Warning System}{Laurentian University}{Poster}{Sudbury, Canada}{Poster for the SWEWS2.0 Workshop poster session.}
+
+\cventry{July 2018}{Identificação de Partículas em Detetores Gasosos}{Department of Physics, University of Coimbra}{General Physics Seminar}{Coimbra, Portugal}{A broad overview talk about particle interaction, the fundamentals of particle detection and the evolution of gaseous particle detectors.}
+
+\cventry{February 2018}{Neutrino-less Double Beta Decay - An Introductory Overview of Current Day Experiments}{Department of Physics, University of Coimbra}{General Physics Seminar}{Coimbra}{Starting from the stability of the Standard Model and the Beta Decay spectrum solution of Pauli, the seminar will lead you into the unresolved mystery of Majorana concept of particle and the Majorana Neutrinos, their importance in rare events as Double Beta Decay without the emission of Dirac Neutrinos and various current day experiments and projects looking for this decay.}
+
+\cventry{May 2017}{Dark Matter - Search for DM and XENON1T first results}{Department of Physics, University of Coimbra}{Talk on High Energy Physics}{Coimbra}{Talk on the subject of Dark Matter: why do we need DM in current day Physics; Double-phase TPC and their use in direct DM search; The XENON collaboration and the XENON1T experiment; Latest results and limits on WIMP-nucleon interactions search.}
