@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-Get my latest CV [here](https://ricmperes.github.io/files/RP_CV.pdf).
+Get my latest CV [here](https://ricmperes.github.io/files/RP_CV_aug23.pdf).
